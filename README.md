@@ -29,15 +29,7 @@ __e-Mail__ 69558140@163.com
  - 平均Auc
  - 预测的平均点击率
  - 精确率、召回率、F1 Score等信息
-    Test Mean Acc : 0.7814300060272217
-    Test Mean Loss : 0.46838584542274475
-    Mean Auc : 0.7792937214782675
-    Mean prediction : 0.2552148997783661
-                 precision    recall  f1-score   support
 
-            0.0       0.81      0.93      0.86     74426
-            1.0       0.63      0.34      0.45     25574
-
-    avg / total       0.76      0.78      0.76    100000
+![image](https://raw.githubusercontent.com/chengstone/kaggle_criteo_ctr_challenge-/master/train_info.png)
 
 更多内容请参考代码，Enjoy！
