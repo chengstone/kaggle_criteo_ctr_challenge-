@@ -1,3 +1,4 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 # kaggle_criteo_ctr_challenge-
 This is a kaggle challenge project called Display Advertising Challenge by CriteoLabs at 2014.
 这是2014年由CriteoLabs在kaggle上发起的广告点击率预估挑战项目。
@@ -33,3 +34,6 @@ __e-Mail__ 69558140@163.com
 ![image](https://raw.githubusercontent.com/chengstone/kaggle_criteo_ctr_challenge-/master/train_info.png)
 
 更多内容请参考代码，Enjoy！
+
+# 许可
+Licensed under the MIT License with the [`996ICU License`](https://github.com/996icu/996.ICU/blob/master/LICENSE).
